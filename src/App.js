@@ -13,7 +13,7 @@ class App extends Component {
           <h1 className="App-title">Environment Variables in a Create React App on Netlify</h1>
         </header>
         <p className="App-intro">
-          To get 99999started, edit <code>src/App.js</code> and commit to your repo.
+          To get 99999888started, edit <code>src/App.js</code> and commit to your repo.
         </p>
       <script type="text/javascript">
 

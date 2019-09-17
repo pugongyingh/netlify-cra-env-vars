@@ -21,7 +21,7 @@ class App extends Component {
         <p>TOML_ENV_VAR value is "{process.env.TOML_ENV_VAR}"</p>
         <p>REACT_APP_TOML_ENV_VAR value is "{process.env.REACT_APP_TOML_ENV_VAR}"</p>
       
-      
+      <p>TOML_ENV value is "{process.env.TOML_ENV}"</p>
       <p>NODE_ENVVVVV value is "{process.env.NODE_ENVVVVV}"</p>
       </div>
     );

@@ -13,7 +13,7 @@ class App extends Component {
           <h1 className="App-title">Environment Variables in a Create React App on Netlify</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and commit to your repo.
+          To get 99999started, edit <code>src/App.js</code> and commit to your repo.
         </p>
         <p>NODE_ENV value is "{process.env.NODE_ENV}"</p>
         <p>CUSTOM_ENV_VAR value is "{process.env.CUSTOM_ENV_VAR}"</p>

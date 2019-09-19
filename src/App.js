@@ -15,13 +15,7 @@ class App extends Component {
         <p className="App-intro">
           To get 777started, edit <code>src/App.js</code> and commit to your repo.
         </p>
-      <script type="text/javascript">
 
-
-        process.env.TOML_ENV=process.env.TOML_ENV+1;
- 
-
-</script>
         <p>NODE_ENV value is "{process.env.NODE_ENV}"</p>
         <p>CUSTOM_ENV_VAR value is "{process.env.CUSTOM_ENV_VAR}"</p>
         <p>REACT_APP_CUSTOM_ENV_VAR value is "{process.env.REACT_APP_CUSTOM_ENV_VAR}"</p>

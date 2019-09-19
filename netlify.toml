@@ -5,4 +5,4 @@
 [context.production.environment]
   TOML_ENV_VAR = "From netlify.toml"
   REACT_APP_TOML_ENV_VAR = "From netlify.toml (REACT_APP_)"
-  TOML_ENV = "8"
+  REACT_APP_TOML_ENV = "From netlify.t"
